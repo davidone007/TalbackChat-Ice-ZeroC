@@ -1,0 +1,15 @@
+<state>
+  <timestamp value='1728612418664' />
+  <sourceSet name='default'>
+    <source name='C:\Universidad\Ingesoft IV\HelloWorld-Callback\Printer.ice'>
+      <file name='C:\Universidad\Ingesoft IV\HelloWorld-Callback\client\build\generated-src\Demo\Callback.java' />
+      <file name='C:\Universidad\Ingesoft IV\HelloWorld-Callback\client\build\generated-src\Demo\Printer.java' />
+      <file name='C:\Universidad\Ingesoft IV\HelloWorld-Callback\client\build\generated-src\Demo\CallbackPrx.java' />
+      <file name='C:\Universidad\Ingesoft IV\HelloWorld-Callback\client\build\generated-src\Demo\_CallbackPrxI.java' />
+      <file name='C:\Universidad\Ingesoft IV\HelloWorld-Callback\client\build\generated-src\Demo\PrinterPrx.java' />
+      <file name='C:\Universidad\Ingesoft IV\HelloWorld-Callback\client\build\generated-src\Demo\_PrinterPrxI.java' />
+    </source>
+    <arg value='C:\Program Files\ZeroC\Ice-3.7.10\\bin\slice2java.exe' />
+    <arg value='-IC:\Program Files\ZeroC\Ice-3.7.10\\slice' />
+  </sourceSet>
+</state>

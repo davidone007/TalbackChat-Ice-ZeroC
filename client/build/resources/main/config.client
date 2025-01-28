@@ -1,0 +1,4 @@
+Callback.Endpoints = tcp -h localhost
+
+Printer.Proxy = SimplePrinter: default -h localhost -p 9099
+Ice.Default.Host=localhost

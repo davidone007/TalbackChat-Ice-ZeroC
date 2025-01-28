@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: Server
+Class-Path: file:/C:/Users/pipec/.gradle/caches/modules-2/files-2.1/com.
+ zeroc/ice/3.7.2/33055ec870e5bfa055ba1489b76ee83639c0a28a/ice-3.7.2.jar
+
